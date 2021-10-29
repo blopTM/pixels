@@ -2,3 +2,6 @@ type: Wall
 health: 1
 castShadow: false
 category: effect
+requirements: [
+   copper/1
+]
