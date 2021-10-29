@@ -1,0 +1,9 @@
+{
+   "name": "pixels",
+   "displayName": "Pixels",
+   "author": "blopTM",
+   "description": "adds pixels so you can sprite in-game",
+   "version": "1.0",
+   "minGameVersion": "134",
+   "hidden": "false"
+}
