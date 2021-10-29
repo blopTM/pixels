@@ -1,6 +1,6 @@
-type: Wall
+type: wall
 health: 1
-castShadow: false
+castshadow: false
 size: 1
 requirements: [
    copper/1
